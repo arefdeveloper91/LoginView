@@ -27,12 +27,9 @@ Pré-requisitos
 
 Xcode: Versão 15 ou superior.
 macOS: Para desenvolvimento e testes.
-Apple Developer Program: Opcional, necessário para publicação na App Store ($99/ano).
 
 Instalação
 
-Clone o repositório:
-git clone https://github.com/seu-usuario/lilac-login-system.git
 
 
 Abra o projeto no Xcode:
